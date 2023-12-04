@@ -1,0 +1,22 @@
+{
+  "name": "nnr-slicing-brawl",
+  "version": "1.0.0",
+  "description": "Competition of SMK Coding 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naufalnrsmitter20/NNR-Slicing-Brawl.git"
+  },
+  "author": "Naufal Nabil Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naufalnrsmitter20/NNR-Slicing-Brawl/issues"
+  },
+  "homepage": "https://github.com/naufalnrsmitter20/NNR-Slicing-Brawl#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
